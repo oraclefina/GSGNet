@@ -1,5 +1,5 @@
 # GSGNet
-This project provides the code for **'Global Semantic-Guided Network for Saliency Prediction'**, Knowledge-Based Systems. [Paper link](https://doi.org/10.1016/j.knosys.2023.111279).
+This project provides the code for **'Global Semantic-Guided Network for Saliency Prediction'**, Knowledge-Based Systems. [Paper link](https://www.sciencedirect.com/science/article/pii/S0950705123010274).
 
 ## Tips
 ✨Note that the following evaluations are based on ✨**.PNG/.JPEG** files for **image saliency datasets** containing SALICON, TORONTO and PASCAL-S.
