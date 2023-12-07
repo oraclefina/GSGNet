@@ -108,14 +108,17 @@ $ python train.py
 
 ## Citation
 If you think this project is helpful, please feel free to cite our paper:
-
-    @article{Xie2023gsgnet,
-    title = {Global semantic-guided network for saliency prediction},
-    journal = {Knowledge-Based Systems},
-    pages = {111279},
-    year = {2023},
-    issn = {0950-7051},
-    doi = {https://doi.org/10.1016/j.knosys.2023.111279},
-    author = {Jiawei Xie and Zhi Liu and Gongyang Li and Xiaofeng Lu and Tao Chen},
-    }
+```
+@article{XIE2024111279,
+title = {Global semantic-guided network for saliency prediction},
+journal = {Knowledge-Based Systems},
+volume = {284},
+pages = {111279},
+year = {2024},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2023.111279},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705123010274},
+author = {Jiawei Xie and Zhi Liu and Gongyang Li and Xiaofeng Lu and Tao Chen},
+}
+```
         
